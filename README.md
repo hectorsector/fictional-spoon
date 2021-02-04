@@ -1,3 +1,5 @@
+![Grading workflow](https://github.com/hectorsector/fictional-spoon/actions/workflows/grading.yml/badge.svg)
+
 # Welcome to the scheduled events lab!
 - [About the codebase](#about-the-codebase)
 - [Lab instructions](#lab-instructions)
